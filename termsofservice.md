@@ -9,11 +9,20 @@ The service:
 You, The user:
     The user of the service.
   
+Person data:
+    Any data the user provides us, including but not limited to: emails, Inbox descriptions, submitted questions.
+
+Rights
+
+* The user shall retain ownership of their personal data and we will only use that data to provide the service to the user.
+
+* The user can request all data kept by us at any given time via the data liberation service.
+
 Responsibilities
 
 * The user is responsible for all their data in their account including but not limited to any data sent to them by email. The user must ensure that the data is legal under English law
 
-* The user is responsible for remembering their password and other authentication tokens, Inboxen does not offer any service  to recover an account.
+* The user is responsible for remembering their password and other authentication tokens, Inboxen does not offer any service to recover an account.
 
 * The user is responsible for ensuring their account remains secure by keeping their passwords secure and if enabling other security features provided by us (e.g. 2-factor authentication).
 
@@ -31,7 +40,7 @@ Loss
 
 * We are not liable for any data loss including but not limited to human error, corruption or hardware failure.
 
-* We provide data liberation to export your data.
+* We will provide a data liberation service to you so you may keep your own backups.
 
 Footnotes
  
